@@ -94,7 +94,7 @@ Created pivot tables to analyze:
 
 ---
 
-## 📬 About Me
+## About Me
 I am transitioning into data analytics and building a portfolio of real-world projects using SQL, Excel, and visualization tools.  
 This project demonstrates my ability to clean, analyze, and interpret data to generate actionable insights.
 
